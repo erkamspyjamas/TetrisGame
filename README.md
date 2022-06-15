@@ -1,0 +1,3 @@
+# TetrisGame
+
+Öğrenme amaçlı yapılmıştır.
